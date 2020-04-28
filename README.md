@@ -1,9 +1,9 @@
 # 简介
-    之前用过一些博客，页面不简洁，美观不够简洁，于是[根据一篇博文](https://www.jianshu.com/p/7c2cce028d29)，
+    之前用过一些博客，页面不简洁，美观不够简洁，于是[根据一篇博文][https://www.jianshu.com/p/7c2cce028d29]，
     学习用github的issues+project写博客。  
     
 # 博客分类
-    * [版本控制](https://www.jianshu.com/p/7c2cce028d29)  
+    * [版本控制][https://www.jianshu.com/p/7c2cce028d29]  
     
 # 关于我
     一个刚入职的IT新人；
